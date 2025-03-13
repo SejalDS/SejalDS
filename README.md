@@ -2,7 +2,7 @@
 
 <div align="left">
   <h3 align="center">I'm Sejal Sardal, a graduate student at Syracuse University, New York, USA.</h3>
-  <img align="right" alt="Coding" width="700" src="https://miro.medium.com/v2/resize:fit:4800/format:webp/0*0JBZx8rioVbrR4vJ.gif">
+  <img align="right" alt="Coding" width="600" src="https://miro.medium.com/v2/resize:fit:4800/format:webp/0*0JBZx8rioVbrR4vJ.gif">
 </div>
 
 <h3 align="left">About me</h3>
