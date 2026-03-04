@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 <div align="left">
-  <h3 align="center">I'm Sejal Sardal, a graduate student at Syracuse University, New York, USA.</h3>
+  <h3 align="center">I'm Sejal Sardal.</h3>
   <img align="right" alt="Coding" width="600" src="https://miro.medium.com/v2/resize:fit:4800/format:webp/0*0JBZx8rioVbrR4vJ.gif">
 </div>
 
