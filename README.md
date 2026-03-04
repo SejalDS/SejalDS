@@ -12,7 +12,7 @@
   <div style="flex: 1;">
     <p>✨ Transforming Business Data into Insights with Data Visualization</p>
     <p>📚 Masters in Information System and Data Science</p>
-    <p>🌱 I’m currently mastering AWS</p>
+    <p>🌱 I’m currently mastering AWS, GCP Azure, AI</p>
   </div>
 
 <h3 align="left">Skills</h3>
